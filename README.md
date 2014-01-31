@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/lo1tuma/mocha-bdd-when.png?branch=master)](https://travis-ci.org/lo1tuma/mocha-bdd-when)
 [![Dependencies](https://david-dm.org/lo1tuma/mocha-bdd-when.png)](https://david-dm.org/lo1tuma/mocha-bdd-when)
 [![devDependencies](https://david-dm.org/lo1tuma/mocha-bdd-when/dev-status.png)](https://david-dm.org/lo1tuma/mocha-bdd-when#info=devDependencies)
 
