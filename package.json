@@ -16,6 +16,6 @@
         "mocha",
         "when"
     ],
-    "author": "Mathias Schreck",
+    "author": "Mathias Schreck <schreck.mathias@gmail.com>",
     "license": "beerware"
 }
