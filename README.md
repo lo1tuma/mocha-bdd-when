@@ -1,3 +1,6 @@
+[![Dependencies](https://david-dm.org/lo1tuma/mocha-bdd-when.png)](https://david-dm.org/lo1tuma/mocha-bdd-when)
+[![devDependencies](https://david-dm.org/lo1tuma/mocha-bdd-when/dev-status.png)](https://david-dm.org/lo1tuma/mocha-bdd-when#info=devDependencies)
+
 mocha-bdd-when
 =============
 Allows to execute tests conditionally
