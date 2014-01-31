@@ -3,6 +3,10 @@
     "version": "0.0.0",
     "description": "Allows to execute tests conditionally.",
     "author": "Mathias Schreck <schreck.mathias@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/lo1tuma/mocha-bdd-when.git"
+    },
     "main": "index.js",
     "scripts": {
         "test": "mocha"
