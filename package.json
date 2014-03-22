@@ -12,7 +12,7 @@
         "test": "mocha"
     },
     "peerDependencies": {
-        "mocha": "~1.17.1"
+        "mocha": "1.x"
     },
     "devDependencies": {
         "mocha": "1.17.1"
