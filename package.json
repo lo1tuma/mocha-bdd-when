@@ -1,6 +1,6 @@
 {
     "name": "mocha-bdd-when",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "description": "Allows to execute tests conditionally.",
     "author": "Mathias Schreck <schreck.mathias@gmail.com>",
     "repository": {
