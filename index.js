@@ -5,13 +5,13 @@ module.exports = function (condition) {
             if (condition) {
                 return it(testName, testFunction);
             }
-            return it.skip(testName);
+            return it.skip(testName, testFunction);
         },
         describe: function (testName, testFunction) {
             if (condition) {
                  return describe(testName, testFunction);
             }
-            return describe.skip(testName);
+            return describe.skip(testName, testFunction);
         }
     };
 };
