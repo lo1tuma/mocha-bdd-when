@@ -10,3 +10,19 @@ describe('when', function () {
       assert.ok(false);
     });
 });
+
+when(false).describe('conditional describe', function () {
+    it('should be skipped', function () {
+        assert.ok(false);
+    });
+
+    it('should be skipped too', function () {
+        assert.ok(false);
+    });
+});
+
+when(true).describe('another conditional describe', function () {
+    it('should not be skipped', function () {
+        assert.ok(true);
+    });
+});
